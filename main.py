@@ -15,9 +15,9 @@ class Colors:
 
 def start():
     messages = {
-        'welcome': f'{Colors.CYAN}------- Bem-vindo ao nosso Quiz de Matemática!',
+        'welcome': f'{Colors.CYAN}------- Bem-vindo ao Quiz de Matemática!',
         'start_question': f'{Colors.WHITE}~ Deseja iniciar o quiz? "{Colors.GREEN}sim{Colors.WHITE}, {Colors.RED}não{Colors.WHITE} ou {Colors.CYAN}sair{Colors.WHITE}".',
-        'exit': f'{Colors.WHITE}~ Entendido! Até a próxima e obrigado por participar!',
+        'exit': f'{Colors.WHITE}~ Okay! Até a próxima!',
         'invalid_response': f'{Colors.WHITE}~ Resposta inválida! Por favor, digite "{Colors.GREEN}sim{Colors.WHITE}, {Colors.RED}não{Colors.WHITE} ou {Colors.CYAN}sair{Colors.WHITE}.'
     }
 
