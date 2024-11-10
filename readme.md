@@ -17,7 +17,7 @@ python main.py
 . *Windows* 
 
 
-[Download](https://github.com/alemobn/simple-faq/archive/refs/heads/main.zip) > Extract > Open CMD >
+[Download](https://github.com/alemobn/simple-math-quiz/archive/refs/heads/main.zip) > Extract > Open CMD >
 ```bash
 python main.py
 ```
