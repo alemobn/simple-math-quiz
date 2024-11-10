@@ -1,6 +1,6 @@
 ![Demo](docs/demo.png)
 
-## Build With
+## Build with
 
 - Python
 
