@@ -1,5 +1,7 @@
 ![Demo](docs/demo.png)
 
+> ⚠️ REQUIRES PYTHON INSTALLED
+
 ## Build with
 
 - Python
